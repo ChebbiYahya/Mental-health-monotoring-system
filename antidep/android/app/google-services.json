@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "119609407897",
+    "firebase_url": "https://iaproject-ca2fc-default-rtdb.firebaseio.com",
+    "project_id": "iaproject-ca2fc",
+    "storage_bucket": "iaproject-ca2fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119609407897:android:d81eaf1baf9d3e1427bb08",
+        "android_client_info": {
+          "package_name": "com.example.antidep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4B-JQMxQeDg4iWLclh6rUmMxgvmXjlLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
